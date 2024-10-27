@@ -6,6 +6,10 @@ OwnDI is a custom implementation of a Dependency Injection (DI) container in C# 
 
 Dependency Injection is a design pattern that helps to create more flexible and decoupled code. OwnDI provides a simple DI container implementation.
 
+№№ Screenshots
+![image](https://github.com/user-attachments/assets/824d6642-dde5-4452-9048-e73c6d97f781)
+Summary benchmark
+
 ## Getting Started
 
 To get started with OwnDI, follow these steps:
